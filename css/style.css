@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.container {
+
+    width: 1000px;
+    height: 500px;
+    margin: 7vh auto;
+    background-color: rgb(243, 236, 173);
+    box-shadow: 3px 7px 10px darkkhaki;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul>li {
+    list-style: none;
+    padding: 5px 30px;
+    font-size: 20px;
+}
